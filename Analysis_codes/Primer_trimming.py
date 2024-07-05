@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 
-# Manuscript: 제목써야함
+# Manuscript: Assembly and maturation of calf gut microbiome from neonate to post-puberty
 # Code written by Jae-Yun Lee
 # 2024-07-02
 # Job description: Trimming 338F and 805R PCR primer sequences from the raw reads.
 
 #### Program information ####
-# Cutadapt 4.0 (Marcel Martin, EMBnet.journal, 2011. doi:10.14806/ej.17.1.200 (https://cutadapt.readthedocs.io/en/stable/index.html))
+# Cutadapt v4.0 (Marcel Martin, EMBnet.journal, 2011. doi:10.14806/ej.17.1.200 (https://cutadapt.readthedocs.io/en/stable/index.html))
 
 import argparse
 import os
