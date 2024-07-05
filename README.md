@@ -15,7 +15,7 @@ This repository contains processed 16S rRNA gene (V3-V4) sequencing data and ana
   - `Shannon_alpha_rarefaction.csv`: Rarefaction curve of our data based on Shannon diversity index, generated from [Qiime2](https://qiime2.org/) platform.
   - `Metadata.tsv`: Metadata containing sample information available for analysis, such as sampling time points, sample origin and host sex.
 
-## `Analysis_codes` containing two custom codes.
+## `Analysis_codes` containing two custom codes
   - `Primer_trimming.py`: Python script used for trimming 338F and 805R primer from the raw reads using [Cutadapt](https://cutadapt.readthedocs.io/en/stable/) before DADA2 pipeline.
     ```bash
     # Example usage
