@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/823260503.svg)](https://zenodo.org/doi/10.5281/zenodo.12820596)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14878589.svg)](https://doi.org/10.5281/zenodo.14878589)
 # Introduction
 
 This repository contains processed 16S rRNA gene (V3-V4) sequencing data and analysis code related to below paper.<br/>
